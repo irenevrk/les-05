@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+    <head>
+        <title>Class Challenge 01</title>
+        <link rel="stylesheet" href="css/style01.css">
+        <style>
+            body{
+                background-image:url('img/Class_Challenge_01.jpg');
+                background-repeat: no-repeat;
+                background-position: top left;
+            }
+        </style>
+    </head>
+    <body>
+        <main>
+            <div class="block-01"></div>
+            <div class="block-02"></div>
+            <div class="block-03"></div>
+            <div class="block-04"></div>
+            <div class="block-05"></div>
+            <div class="block-06"></div>
+            <div class="block-07"></div>
+            <div class="block-08"></div>
+        </main>
+    </body>
+</html>
